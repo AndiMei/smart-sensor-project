@@ -6,6 +6,9 @@
  */
 
 
+//halo andi dari marta 
+
+
 #include <avr/io.h>
 #include <stdio.h>
 #include <util/delay.h>
@@ -34,3 +37,4 @@ int main(void){
 //		_delay_ms(1);
 	}
 }
+
